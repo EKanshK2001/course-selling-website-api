@@ -9,7 +9,6 @@
 ## Tests Done (POSTMAN ~and FRONTEND~): ✅ 👍
 - working signup feature 
 - working signin feature
-  - use it in every pages request header
 
 - authenticated admin,
   - successfully creates new courses
